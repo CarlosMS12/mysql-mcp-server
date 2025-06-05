@@ -1,0 +1,27 @@
+# Archivos de desarrollo
+src/
+.env
+.env.*
+*.log
+
+# Archivos de configuración de desarrollo
+tsconfig.json
+.vscode/
+.idea/
+
+# Archivos de prueba
+test/
+tests/
+*.test.js
+*.test.ts
+
+# Archivos temporales
+.tmp/
+temp/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Documentación de desarrollo
+docs/
